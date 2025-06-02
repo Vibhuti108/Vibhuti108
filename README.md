@@ -3,7 +3,6 @@
 
 <img align="right" alt = "coding" width="350" src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhuti108&label=Profile%20views&color=0e75b6&style=flat" alt="vibhuti108" /> </p>
 
 - 📫 How to reach me **vibhutisharma996@gmail.com**
 
